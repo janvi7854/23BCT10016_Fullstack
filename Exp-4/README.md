@@ -12,7 +12,5 @@ Redux is a predictable state container for JavaScript applications. It helps man
 <img src="./Exp-4/ecommerce-app/src/assets/j3.png" alt="Please Reload or go see images at Image section">   
 
 
-=======
 ---
 Developed by **Janvi**
->>>>>>> b3ae220ec8126e07a83e4864214fb1c81f447b06
